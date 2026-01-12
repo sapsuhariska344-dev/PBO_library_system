@@ -48,12 +48,31 @@ Aplikasi ini menerapkan konsep:
 pbo-library-system/ │ ├── main.py        # Program utama ├── buku.py        # Class Buku ├── anggota.py     # Class Anggota └── README.md      # Dokumentasi projek
 ---
 
+1. Clone repository:
+   ```bash
+   git clone https://github.com/username/pbo-library-system.git
+Masuk ke folder projek:
+Salin kode
+Bash
+cd pbo-library-system
+Jalankan program:
+Salin kode
+Bash
+python main.py
+
 ## ✨ Fitur Aplikasi
 - Menambahkan data buku
 - Menampilkan data buku
 - Menambahkan data anggota
 - Menampilkan data anggota
 - Menggunakan konsep Pemrograman Berorientasi Objek (PBO)
+----
+ Alur Kerja GitHub (Kolaborasi)
+Maintainer membuat repository utama
+Anggota melakukan Fork repository
+Anggota menambahkan fitur sesuai tugas masing-masing
+Anggota melakukan Pull Request
+Maintainer melakukan Merge Pull Request
 
 ---
 
@@ -61,3 +80,5 @@ pbo-library-system/ │ ├── main.py        # Program utama ├── buku.
 1. Clone repository ini:
    ```bash
    git clone https://github.com/username/pbo-library-system.git
+
+   
